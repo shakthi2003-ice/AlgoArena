@@ -2,10 +2,6 @@
 
 
 
-### Prerequisites
-
-- Ensure [Docker](https://docs.docker.com/engine/install/) is installed on your machine.
-- Node.js and npm should be installed for managing dependencies.
 
 ### Steps
 
